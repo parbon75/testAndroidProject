@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         EditText editText = findViewById(R.id.editxt);
         Button button = findViewById(R.id.btnAdd);
 
-        textView.setText("Zaima Dhong");
+
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
